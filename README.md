@@ -27,9 +27,10 @@
 - **Улучшения:** Увеличивайте мощь и скорость кликов, открывайте новые виды чипсов.
 
 ## 🖼️ Скриншоты
+<img width="1920" height="1080" alt="image (14)" src="https://github.com/user-attachments/assets/f3a31f9c-e48e-4c7e-8674-74ba17d186b7" />
+<img width="1920" height="1080" alt="image (13)" src="https://github.com/user-attachments/assets/69b56eab-ad9b-460c-9af3-00af4e3d0425" />
+<img width="1920" height="1080" alt="image (15)" src="https://github.com/user-attachments/assets/efbf4c5b-83fd-409d-840e-a1de9576053d" />
 
-![Скриншот геймплея 1](Screenshots/screenshot1.png)
-![Скриншот геймплея 2](Screenshots/screenshot2.png)
 
 ## 🎮 Управление
 
@@ -45,22 +46,21 @@
 
 | Файл / Папка | Описание |
 |--------------|----------|
-| `LitvinChips/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
-| `Screenshots/` | Скриншоты игры для README |
+| `ChipsLITV/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
 | `.gitignore` | Файл игнорирования Git |
 | `README.md` | Описание проекта |
 
 ## 🚀 Сборка и запуск
 
 1. Скачайте репозиторий.
-2. Откройте проект в Unity (версию смотрите в `LitvinChips/ProjectSettings/ProjectVersion.txt`).
-3. Для запуска в редакторе откройте сцену `LitvinChips/Assets/Scenes/MainScene.unity` и нажмите `Play`.
+2. Откройте проект в Unity (версию смотрите в `ChipsLITV/ProjectSettings/ProjectVersion.txt`).
+3. Для запуска в редакторе откройте сцену `ChipsLITV/Assets/Scenes/MainScene.unity` и нажмите `Play`.
 4. Для публикации на Yandex Games соберите проект в **WebGL** через `File → Build Settings`.
 5. Загрузите сборку в личном кабинете разработчика Yandex Games.
 
 ## 🛠 Используемые технологии
 
-- Unity (версия из `LitvinChips/ProjectSettings/ProjectVersion.txt`)
+- Unity (версия из `ChipsLITV/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
@@ -94,9 +94,9 @@ Each rival chip is unique. Defeat them, unlock new levels, and become a true cli
 - **Upgrades:** Increase click power and speed, unlock new chip types.
 
 ## 🖼️ Screenshots
-
-![Gameplay screenshot 1](Screenshots/screenshot1.png)
-![Gameplay screenshot 2](Screenshots/screenshot2.png)
+<img width="1920" height="1080" alt="image (14)" src="https://github.com/user-attachments/assets/f3a31f9c-e48e-4c7e-8674-74ba17d186b7" />
+<img width="1920" height="1080" alt="image (13)" src="https://github.com/user-attachments/assets/69b56eab-ad9b-460c-9af3-00af4e3d0425" />
+<img width="1920" height="1080" alt="image (15)" src="https://github.com/user-attachments/assets/efbf4c5b-83fd-409d-840e-a1de9576053d" />
 
 ## 🎮 Controls
 
@@ -112,22 +112,21 @@ Each rival chip is unique. Defeat them, unlock new levels, and become a true cli
 
 | File / Folder | Description |
 |---------------|-------------|
-| `LitvinChips/` | All project resources (scripts, scenes, sprites, audio, settings) |
-| `Screenshots/` | Game screenshots for README |
+| `ChipsLITV/` | All project resources (scripts, scenes, sprites, audio, settings) |
 | `.gitignore` | Git ignore file |
 | `README.md` | Project description |
 
 ## 🚀 Build and run
 
 1. Download the repository.
-2. Open the project in Unity (check the version in `LitvinChips/ProjectSettings/ProjectVersion.txt`).
-3. To run in the editor, open `LitvinChips/Assets/Scenes/MainScene.unity` and press `Play`.
+2. Open the project in Unity (check the version in `ChipsLITV/ProjectSettings/ProjectVersion.txt`).
+3. To run in the editor, open `ChipsLITV/Assets/Scenes/MainScene.unity` and press `Play`.
 4. For publishing on Yandex Games, build the project to **WebGL** via `File → Build Settings`.
 5. Upload the build to your Yandex Games developer dashboard.
 
 ## 🛠 Technologies used
 
-- Unity (version from `LitvinChips/ProjectSettings/ProjectVersion.txt`)
+- Unity (version from `ChipsLITV/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
